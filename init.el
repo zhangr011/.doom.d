@@ -39,7 +39,7 @@
        ;;japanese
 
        :editor
-       (evil +everywhere)
+       ;; (evil +everywhere)
        file-templates
        fold              ; (nigh) universal code folding
        ;;objed
